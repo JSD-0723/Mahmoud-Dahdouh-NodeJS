@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JSD-0723/Mahmoud-Dahdouh-NodeJS-Project.git"
+    "url": "git+https://github.com/JSD-0723/Mahmoud-Dahdouh-NodeJS.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JSD-0723/Mahmoud-Dahdouh-NodeJS-Project/issues"
+    "url": "https://github.com/JSD-0723/Mahmoud-Dahdouh-NodeJS/issues"
   },
-  "homepage": "https://github.com/JSD-0723/Mahmoud-Dahdouh-NodeJS-Project#readme",
+  "homepage": "https://github.com/JSD-0723/Mahmoud-Dahdouh-NodeJS#readme",
   "dependencies": {
     "nodemon": "^3.0.1"
   }
